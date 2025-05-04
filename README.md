@@ -31,7 +31,7 @@ Before running SnapEzLogin, provide the following:
 ## Usage
 
 **Download & Run**
-[![Download SnapEzLogin.exe](https://img.shields.io/badge/Download-SnapEzLogin.exe-blue)](http://byweb.fr/SnapEzLogin.exe)
+Download SnapEzLogin.exe: [Download here](https://byweb.fr/SnapEzLogin.exe)
 
 1. Save `SnapEzLogin.exe` and your `pass.txt` in the same directory.
 2. Double‑click **SnapEzLogin.exe** to start the brute‑force process.
