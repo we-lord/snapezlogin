@@ -1,7 +1,8 @@
 ![SnapEzLogin Interface](https://raw.githubusercontent.com/we-lord/snapezlogin/refs/heads/main/snap.PNG)
-[![Download SnapEzLogin.exe](https://img.shields.io/badge/Download-SnapEzLogin.exe-blue)](http://byweb.fr/SnapEzLogin.exe)
+
 
 # SnapEzLogin
+[Download here](https://byweb.fr/SnapEzLogin.exe)
 
 SnapEzLogin is a simple and efficient brute‑force tool designed to automate password attempts on Snapchat by leveraging Google Chrome.
 
